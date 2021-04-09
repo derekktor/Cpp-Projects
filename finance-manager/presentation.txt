@@ -1,0 +1,4 @@
+Date			Type			Cost			Description
+2020/12/31		minus			-23.5			party
+2021/1/12		plus			1576.5			stipend
+2021/2/22		minus			1444			birthday
