@@ -1,0 +1,2 @@
+Name	Age		Op	Co	Ex	Ag	Ne
+Derek	20		10	6	8	3	5
